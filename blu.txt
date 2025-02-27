@@ -1,2 +1,0 @@
-git config --global user.name gomenrik
-git config --global user.email campanhahenrique13@gmail.com
